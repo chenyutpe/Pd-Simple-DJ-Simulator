@@ -36,7 +36,7 @@ The "realtime" feature of generative music makes me think of DJ, so I decided to
 
 To make it easy enough for anyone to play with, I chose muting/unmuting each components in the music, BPM of the music, and a filter to the whole music, as the interactables.
 
-To be nice to hear with randomness, the notes uses equal temperament , the melodies uses Euclidean rhythm, and the drums choose from certain patterns.
+To be nice to hear with randomness, the notes uses equal temperament, the melodies uses Euclidean rhythm, and the drums choose from certain patterns.
 
 ### Visualization
 Since a goal of the work is to visualize with p5.js and WebPd, the work send out some signals such as the melody notes, and use only one file to connect comfortably.
