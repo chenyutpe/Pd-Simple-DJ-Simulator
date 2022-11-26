@@ -10,11 +10,12 @@ This is a generative music work made with [Pure Data](https://puredata.info/).
 
 ## Usage
 The main operations can be done with the panel below:
+
 ![image](https://github.com/chenyutpe/Pd-Simple-DJ-Simulator/blob/main/demo_img/demo_panel.png)
 
 - Main Panel Functions:
     - Start All: Start/stop the music
-    - BPM: set the BPM
+    - BPM: Det the BPM
     - 8 Buttons: Mute/unmute each mixer channel
         - Drums, Chords, Bass, Sub Melody, Lead Melody, and 3 just for decoration from left to right, up to down.
     - LP Slider: Low pass filter on the master
@@ -23,6 +24,7 @@ The main operations can be done with the panel below:
 Of course, there're many else you can play around.
 
 For example, you can adjust the volume of each mixer channel easily with the sliders or set the number directly:
+
 ![image](https://github.com/chenyutpe/Pd-Simple-DJ-Simulator/blob/main/demo_img/demo_panel.png)
 
 ## More Details
