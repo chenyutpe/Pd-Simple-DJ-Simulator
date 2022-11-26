@@ -34,7 +34,7 @@ The motivation of this work is to make a nice interactive generative music with 
 
 The "realtime" feature of generative music makes me think of DJ, so I decided to use a control panel inspired by DJ panel, or more specifially lauch pad, as the interacting method.
 
-To make it easy enough for anyone to play with, I chose muting/unmuting each components in the music, BPM of the music, and a filter to the while music.
+To make it easy enough for anyone to play with, I chose muting/unmuting each components in the music, BPM of the music, and a filter to the whole music, as the interactables.
 
 To be nice to hear with randomness, the notes uses equal temperament played, the melodies uses Euclidean rhythm, and the drums choose from certain patterns.
 
