@@ -25,7 +25,7 @@ Of course, there're many else you can play around.
 
 For example, you can adjust the volume of each mixer channel easily with the sliders or set the number directly:
 
-![image](https://github.com/chenyutpe/Pd-Simple-DJ-Simulator/blob/main/demo_img/demo_panel.png)
+![image](https://github.com/chenyutpe/Pd-Simple-DJ-Simulator/blob/main/demo_img/demo_mixer.png)
 
 ## More Details
 
