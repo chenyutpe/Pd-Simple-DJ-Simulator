@@ -32,7 +32,7 @@ For example, you can adjust the volume of each mixer channel easily with the sli
 ### Design Ideas
 The motivation of this work is to make a nice interactive generative music with traditional music structure.
 
-The "realtime" feature of generative music makes me think of DJ, so I decided to use a control panel inspired by DJ panel, or more specifially lauch pad, as the interacting method.
+The "realtime" feature of generative music makes me think of DJ, so I decided to use a control panel inspired by DJ panel, or more specifically lauch pad, as the interacting method.
 
 To make it easy enough for anyone to play with, I chose muting/unmuting each components in the music, BPM of the music, and a filter to the whole music, as the interactables.
 
