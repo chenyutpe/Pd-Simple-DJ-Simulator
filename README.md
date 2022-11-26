@@ -1,6 +1,8 @@
 # Simple DJ Simulator (Pure Data)
 
-This is a generative music work made with [Pure Data](https://puredata.info/)
+This is a generative music work made with [Pure Data](https://puredata.info/).
+
+*Good headphones or speakers may help you enjoy the music more*
 
 ## Demo
 - [Recorded Example Video](https://youtu.be/2SF8U9_Soc8)
