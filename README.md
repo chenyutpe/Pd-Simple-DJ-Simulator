@@ -14,9 +14,9 @@ The main operations can be done with the panel below:
 ![image](https://github.com/chenyutpe/Pd-Simple-DJ-Simulator/blob/main/demo_img/demo_panel.png)
 
 - Main Panel Functions:
-    - Start All: Start/stop the music
+    - Start All: Start/Stop the music
     - BPM: Set the BPM
-    - 8 Buttons: Mute/unmute each mixer channel
+    - 8 Buttons: Mute/Unmute each mixer channel
         - Drums, Chords, Bass, Sub Melody, Lead Melody, and 3 just for decoration from left to right, up to down.
     - LP Slider: Low pass filter on the master
         - And a switch to open/close the filter on the right.
