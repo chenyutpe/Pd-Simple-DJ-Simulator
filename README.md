@@ -15,7 +15,7 @@ The main operations can be done with the panel below:
 
 - Main Panel Functions:
     - Start All: Start/stop the music
-    - BPM: Det the BPM
+    - BPM: Set the BPM
     - 8 Buttons: Mute/unmute each mixer channel
         - Drums, Chords, Bass, Sub Melody, Lead Melody, and 3 just for decoration from left to right, up to down.
     - LP Slider: Low pass filter on the master
