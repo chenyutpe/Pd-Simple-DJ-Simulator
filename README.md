@@ -6,7 +6,7 @@ This is an interactive generative music work made with [Pure Data](https://pured
 
 ## Demo
 - [Recorded Example Video](https://youtu.be/2SF8U9_Soc8)
-- [Simplified version with VJ](https://bwyanyuuu.github.io/aesthetics/main/), visualization made by [@bwyanyuuu](https://github.com/bwyanyuuu)
+- ~~Simplified version with VJ~~ (currently non-public)
 
 ## Usage
 The main operations can be done with the panel below:
